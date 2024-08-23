@@ -1,0 +1,27 @@
+2024-08-13 06:32:56.7706 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-13 06:32:56.8315 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-13 06:32:56.8862 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\SivaramakrishnanMuru\Downloads\final 2000\Json2db\TransactionProcessingApp\bin\Debug\net8.0\nlog.config
+2024-08-13 06:32:56.9701 Info Configuration initialized.
+2024-08-13 06:34:15.7508 Info Shutdown() called. Logger closing...
+2024-08-13 06:34:15.7528 Info Closing old configuration.
+2024-08-13 06:34:15.8088 Info Logger has been closed down.
+2024-08-14 12:10:19.0555 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-14 12:10:19.1349 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-14 12:10:19.2157 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\SivaramakrishnanMuru\Downloads\final 2000\Json2db\TransactionProcessingApp\bin\Debug\net8.0\nlog.config
+2024-08-14 12:10:19.2570 Info Configuration initialized.
+2024-08-14 12:16:24.2049 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-14 12:16:24.2495 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-14 12:16:24.2915 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\SivaramakrishnanMuru\Downloads\final 2000\Json2db\TransactionProcessingApp\bin\Debug\net8.0\nlog.config
+2024-08-14 12:16:24.3303 Info Configuration initialized.
+2024-08-14 12:22:47.4799 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-14 12:22:47.5166 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-14 12:22:47.5590 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\SivaramakrishnanMuru\Downloads\final 2000\Json2db\TransactionProcessingApp\bin\Debug\net8.0\nlog.config
+2024-08-14 12:22:47.6002 Info Configuration initialized.
+2024-08-14 12:25:05.2772 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-14 12:25:05.3237 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-14 12:25:05.3842 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\SivaramakrishnanMuru\Downloads\final 2000\Json2db\TransactionProcessingApp\bin\Debug\net8.0\nlog.config
+2024-08-14 12:25:05.4342 Info Configuration initialized.
+2024-08-14 12:28:32.4071 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-14 12:28:32.4534 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-14 12:28:32.4927 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\SivaramakrishnanMuru\Downloads\final 2000\Json2db\TransactionProcessingApp\bin\Debug\net8.0\nlog.config
+2024-08-14 12:28:32.5325 Info Configuration initialized.
