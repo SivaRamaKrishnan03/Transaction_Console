@@ -479,3 +479,10 @@
 2024-08-21 21:42:18.1658 Info Shutdown() called. Logger closing...
 2024-08-21 21:42:18.1658 Info Closing old configuration.
 2024-08-21 21:42:18.1832 Info Logger has been closed down.
+2024-08-30 10:16:35.9812 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-30 10:16:36.0128 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-30 10:16:36.0317 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\SivaramakrishnanMuru\Videos\final file\TransactionProcessingApp\bin\Debug\net8.0\NLog.config
+2024-08-30 10:16:36.0553 Info Configuration initialized.
+2024-08-30 10:16:59.1109 Info Shutdown() called. Logger closing...
+2024-08-30 10:16:59.1109 Info Closing old configuration.
+2024-08-30 10:16:59.1319 Info Logger has been closed down.
